@@ -1,0 +1,15 @@
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/bin/Debug/net7.0/Linux
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/bin/Debug/net7.0/Linux.deps.json
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/bin/Debug/net7.0/Linux.runtimeconfig.json
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/bin/Debug/net7.0/Linux.dll
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/bin/Debug/net7.0/Linux.pdb
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/obj/Debug/net7.0/Linux.csproj.AssemblyReference.cache
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/obj/Debug/net7.0/Linux.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/obj/Debug/net7.0/Linux.AssemblyInfoInputs.cache
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/obj/Debug/net7.0/Linux.AssemblyInfo.cs
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/obj/Debug/net7.0/Linux.csproj.CoreCompileInputs.cache
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/obj/Debug/net7.0/Linux.dll
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/obj/Debug/net7.0/refint/Linux.dll
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/obj/Debug/net7.0/Linux.pdb
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/obj/Debug/net7.0/Linux.genruntimeconfig.cache
+/Users/amin/Documents/University/Term 3/Data Structure/Mini Project 2 - Linux/Linux/obj/Debug/net7.0/ref/Linux.dll
